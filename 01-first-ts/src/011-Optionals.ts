@@ -33,3 +33,8 @@ console.log(didProvideInput);
 let inputv2 = null;
 const didProvide = inputv2 ?? 'neh';
 console.log(didProvide);
+
+
+function add(a: number, b: number) {
+    return a + b;
+}
