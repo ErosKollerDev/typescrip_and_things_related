@@ -65,9 +65,9 @@ function printInvestment(results: CalculationResult): void {
 }
 
 const myInitialInvestment: Investment = {
-    initialAmount: 1000,
-    annualContribution: 5,
-    expectedReturn: 10,
+    initialAmount: 5000,
+    annualContribution: 500,
+    expectedReturn: 8,
     duration: 10
 }
 const results = calculateInvestment(myInitialInvestment);
