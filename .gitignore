@@ -1,0 +1,5 @@
+.idea/
+angular-login/node_modules/
+node_modules/
+.angular
+dist/
